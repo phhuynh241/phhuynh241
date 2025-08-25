@@ -14,7 +14,7 @@
   <a href="https://github.com/tthn0/Spotify-Readme">
     <img
       src="https://coffeeboy.pythonanywhere.com"
-      alt="Current Spotify Song"
+      alt="Currently listening to"
       max-width="100%"
     />
   </a>
