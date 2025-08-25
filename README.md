@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <h2>Current Spotify Song</h2>
+  <h2>Currently listening to</h2>
   <a href="https://github.com/tthn0/Spotify-Readme">
     <img
       src="https://coffeeboy.pythonanywhere.com"
