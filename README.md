@@ -13,7 +13,7 @@
   <h2>Currently listening to</h2>
   <a href="https://github.com/tthn0/Spotify-Readme">
     <img
-      src="https://coffeeboy.pythonanywhere.com"
+      src="https://coffeeboy.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
       alt="Currently listening to"
       max-width="100%"
     />
