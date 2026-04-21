@@ -8,17 +8,6 @@
   <br>
 </div>
 
-
-<div align="center">
-  <h2>Currently listening to</h2>
-  <a href="https://github.com/tthn0/Spotify-Readme">
-    <img
-      src="https://coffeeboy.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
-      alt="Currently listening to"
-      max-width="100%"
-    />
-  </a>
-</div>
 <!--
 **phhuynh241/phhuynh241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
